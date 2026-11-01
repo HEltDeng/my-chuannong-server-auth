@@ -1,0 +1,6 @@
+build/
+.DS_Store
+*.key
+*.pem
+*.log
+metadata.json
